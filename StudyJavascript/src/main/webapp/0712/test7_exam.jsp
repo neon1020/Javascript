@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <!-- 외부 자바스크립트 파일인 test7.js 파일을 포함시키기 -->
-<script type="text/javascript" src="test7.js"></script>
+<script type="text/javascript" src="test7_function.js"></script>
 <script type="text/javascript">
 	// 1. 파라미터도 없고, 리턴값도 없는 함수 연습
 	// ------------------------------------------------------------------------
