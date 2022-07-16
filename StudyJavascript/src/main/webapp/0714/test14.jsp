@@ -33,6 +33,10 @@
 		location.reload();
 		// => 확인을 위해서는 새로고침 전에 텍스트 상자 등에 데이터를 입력한 후 새로고침 수행
 	}
+	
+	function func4(click) {
+		location.href = "test14_" + click + ".jsp" ;
+	}
 </script>
 </head>
 <body>
