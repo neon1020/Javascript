@@ -23,7 +23,7 @@
 			document.fr.ID.focus(); // 포커스 주기
 			isDuplicate = true; // true = 중복!
 		}
-	}
+	} 
 	
 	function keyCheck(pass) { // O
 		var spanResult = document.getElementById("checkPasswdResult");
