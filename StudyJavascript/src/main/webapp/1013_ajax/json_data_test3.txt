@@ -1,0 +1,5 @@
+[
+	{"id":"admin", "name":"관리자", "age":0, "agreeRcvSpam":false},
+	{"id":"potato", "name":"김감자", "age":20, "agreeRcvSpam":true},
+	{"id":"apple", "name":"최사과", "age":15, "agreeRcvSpam":false}
+]
